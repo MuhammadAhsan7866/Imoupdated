@@ -1,0 +1,15 @@
+@media screen and (max-width: 991px) {
+    .desktopMenu{
+        display: none;
+    }
+    .mobileMenu{
+        display: block;
+    }
+    .pricingBox .blueBoxPrice .priceIconBox.single .graph img {
+        width: 20%;
+        bottom: 10px !important;
+    }
+    .Evalutation .container .row{
+        background: none;
+    }
+}
