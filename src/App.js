@@ -320,9 +320,10 @@ function App() {
                         </a>
                       </li>
                     </ul>
-                    <button className="HeaderBlueButton">
+                    <a href="#Contact"><button className="HeaderBlueButton">
                       Vreau sa Cumpar
-                    </button>
+                    </button></a>
+                    
                   </div>
                 </div>
                 <div className="mobileMenu w-100">
@@ -375,8 +376,13 @@ function App() {
                         <a href="https://www.facebook.com/Imocentral">
                           <img src={FooterSocial4} alt="footer" />
                         </a>
+                        <a href="https://www.instagram.com/imocentral.ro/ https://www.youtube.com/@Imocentral">
                         <img src={FooterSocial2} alt="footerlogo" />
+                        </a>
+                        <a href="https://www.youtube.com/@Imocentral">
                         <img src={FooterSocial3} alt="footerlogo" />
+                        </a>
+                       
                       </div>
                     </div>
                   </div>
