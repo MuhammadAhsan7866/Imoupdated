@@ -369,9 +369,12 @@ function App() {
                           </a>
                         </li>
                       </ul>
+                      <a href="#Contact">
                       <button className="HeaderBlueButton">
                         Vreau sa Cumpar
                       </button>
+                      </a>
+                      
                       <div className="footer-bottom-burger">
                         <a href="https://www.facebook.com/Imocentral">
                           <img src={FooterSocial4} alt="footer" />
